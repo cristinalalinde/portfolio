@@ -1,0 +1,9 @@
+/* Small interaction styles; the reference styles provide the original layout. */
+#form-status[hidden] { display: none; }
+#form-status { margin: 0; }
+#form-status.error { color: #b42318; margin-top: 18px; }
+#contact-form button:disabled { opacity: .6; cursor: wait; }
+.mobile-nav-toggle-label:focus-visible { outline: 2px solid #ff6b42; outline-offset: 5px; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}

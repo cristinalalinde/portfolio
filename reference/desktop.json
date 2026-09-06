@@ -1,0 +1,722 @@
+[
+  {
+    "tag": "INPUT",
+    "class": "mobile-nav-toggle-box hidden",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "display": "none"
+    }
+  },
+  {
+    "tag": "HEADER",
+    "class": "site-header loaded",
+    "text": "GRAPHIC AND EMAIL DESIGNER\nCRISTINA LALINDE 🐅",
+    "rect": {
+      "x": 0,
+      "y": 43.1875,
+      "width": 1440,
+      "height": 36
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px 72px",
+      "margin": "43.2px 0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "flex"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "site-tagline",
+    "text": "GRAPHIC AND EMAIL DESIGNER",
+    "rect": {
+      "x": 72,
+      "y": 43.1875,
+      "width": 287.46875,
+      "height": 36
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "letterSpacing": "0.54px",
+      "color": "rgb(255, 107, 66)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(255, 107, 66)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "site-title",
+    "text": "CRISTINA LALINDE 🐅",
+    "rect": {
+      "x": 1078.953125,
+      "y": 44.875,
+      "width": 271.046875,
+      "height": 32.609375
+    },
+    "style": {
+      "fontFamily": "\"Archivo Black\"",
+      "fontSize": "22.8px",
+      "fontWeight": "400",
+      "lineHeight": "32.604px",
+      "letterSpacing": "normal",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "MAIN",
+    "class": "site-page",
+    "text": "HEY THERE! 👋\nI’M CRISTINA, FROM MEDELLÍN, COLOMBIA 🇨🇴 WORKING WITH CLIENTS ALL OVER THE GLOBE 🌎\n\nEmail designer with 7+ years of experience in marketing, br",
+    "rect": {
+      "x": 0,
+      "y": 122.375,
+      "width": 1440,
+      "height": 3042.34375
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px 72px",
+      "margin": "43.2px 0px 72px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-html-content",
+    "text": "HEY THERE! 👋\nI’M CRISTINA, FROM MEDELLÍN, COLOMBIA 🇨🇴 WORKING WITH CLIENTS ALL OVER THE GLOBE 🌎\n\nEmail designer with 7+ years of experience in marketing, br",
+    "rect": {
+      "x": 72,
+      "y": 122.375,
+      "width": 741.828125,
+      "height": 219.53125
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "HR",
+    "class": "",
+    "text": "",
+    "rect": {
+      "x": 72,
+      "y": 366.90625,
+      "width": 1296,
+      "height": 1
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(187, 187, 187)",
+      "backgroundColor": "rgb(187, 187, 187)",
+      "padding": "0px",
+      "margin": "8px 0px",
+      "border": "0px none rgb(187, 187, 187)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "Marquee",
+    "text": "⚡️CLIENTS I'VE WORKED WITH⚡️CLIENTS I'VE WORKED WITH⚡️CLIENTS I'VE WORKED WITH⚡️CLIENTS I'VE WORKED WITH\n⚡️ CLIENTS I'VE WORKED WITH",
+    "rect": {
+      "x": 72,
+      "y": 409.90625,
+      "width": 1296,
+      "height": 46
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "28.8px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "flex"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "SKYRO DIGITAL",
+    "rect": {
+      "x": 55,
+      "y": 472.90625,
+      "width": 332.5,
+      "height": 371.640625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "MINERAL.IO",
+    "rect": {
+      "x": 387.5,
+      "y": 472.90625,
+      "width": 332.5,
+      "height": 371.640625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "EARTH HARBOR",
+    "rect": {
+      "x": 720,
+      "y": 472.90625,
+      "width": 332.5,
+      "height": 371.640625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "SALES FLOW MARKETING",
+    "rect": {
+      "x": 1052.5,
+      "y": 472.90625,
+      "width": 332.5,
+      "height": 371.640625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "HR",
+    "class": "",
+    "text": "",
+    "rect": {
+      "x": 72,
+      "y": 869.546875,
+      "width": 1296,
+      "height": 1
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(187, 187, 187)",
+      "backgroundColor": "rgb(187, 187, 187)",
+      "padding": "0px",
+      "margin": "8px 0px",
+      "border": "0px none rgb(187, 187, 187)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "Marquee",
+    "text": "⭐️BEST EMAIL DESIGNS⭐️BEST EMAIL DESIGNS⭐️BEST EMAIL DESIGNS⭐️BEST EMAIL DESIGNS⭐️BEST EMAIL DESIGNS\n⭐️ BEST EMAIL DESIGNS",
+    "rect": {
+      "x": 72,
+      "y": 912.546875,
+      "width": 1296,
+      "height": 46
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "32px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "flex"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 165.828125,
+      "y": 975.546875,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 165.828125,
+      "y": 1318.09375,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 165.828125,
+      "y": 1660.640625,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 165.828125,
+      "y": 2003.1875,
+      "width": 554.15625,
+      "height": 350.625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 719.984375,
+      "y": 975.546875,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 719.984375,
+      "y": 1318.09375,
+      "width": 554.15625,
+      "height": 350.625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 719.984375,
+      "y": 1668.71875,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-block image-block sqs-block-image sqs-text-ready",
+    "text": "",
+    "rect": {
+      "x": 719.984375,
+      "y": 2011.265625,
+      "width": 554.15625,
+      "height": 342.546875
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "17px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "HR",
+    "class": "",
+    "text": "",
+    "rect": {
+      "x": 72,
+      "y": 2463.15625,
+      "width": 1296,
+      "height": 1
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(187, 187, 187)",
+      "backgroundColor": "rgb(187, 187, 187)",
+      "padding": "0px",
+      "margin": "8px 0px",
+      "border": "0px none rgb(187, 187, 187)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "DIV",
+    "class": "sqs-html-content",
+    "text": "ELEVATE YOUR EMAIL MARKETING WITH STANDOUT DESIGNS 🚀",
+    "rect": {
+      "x": 515.328125,
+      "y": 2506.15625,
+      "width": 409.328125,
+      "height": 111.5625
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "FORM",
+    "class": "react-form-contents",
+    "text": "YOUR EMAIL\nSUBJECT\nMESSAGE\nSUBMIT",
+    "rect": {
+      "x": 515.328125,
+      "y": 2651.71875,
+      "width": 409.328125,
+      "height": 360
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "letterSpacing": "0.32px",
+      "color": "rgb(51, 9, 5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(51, 9, 5)",
+      "display": "block"
+    }
+  },
+  {
+    "tag": "INPUT",
+    "class": "ngonnDl0lqs7ZArA",
+    "text": "",
+    "rect": {
+      "x": 515.328125,
+      "y": 2674.71875,
+      "width": 409.328125,
+      "height": 41
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(250, 250, 250)",
+      "padding": "10px",
+      "margin": "0px",
+      "border": "1px solid rgb(169, 169, 169)",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tag": "INPUT",
+    "class": "ngonnDl0lqs7ZArA",
+    "text": "",
+    "rect": {
+      "x": 515.328125,
+      "y": 2756.71875,
+      "width": 409.328125,
+      "height": 41
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(250, 250, 250)",
+      "padding": "10px",
+      "margin": "0px",
+      "border": "1px solid rgb(169, 169, 169)",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tag": "TEXTAREA",
+    "class": "qj2U4ppWTRohr5rP",
+    "text": "",
+    "rect": {
+      "x": 515.328125,
+      "y": 2838.71875,
+      "width": 409.328125,
+      "height": 100
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(250, 250, 250)",
+      "padding": "10px",
+      "margin": "0px",
+      "border": "1px solid rgb(169, 169, 169)",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tag": "INPUT",
+    "class": "ngonnDl0lqs7ZArA",
+    "text": "",
+    "rect": {
+      "x": -4501.671875,
+      "y": 2956.71875,
+      "width": 22,
+      "height": 41
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(250, 250, 250)",
+      "padding": "10px",
+      "margin": "0px",
+      "border": "1px solid rgb(169, 169, 169)",
+      "display": "inline-block"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "class": "button sqs-system-button sqs-editable-button form-submit-button sqs-button-element--primary none vj3vrvqNhcUOo_Bm",
+    "text": "SUBMIT",
+    "rect": {
+      "x": 515.328125,
+      "y": 2956.71875,
+      "width": 409.328125,
+      "height": 55
+    },
+    "style": {
+      "fontFamily": "Chivo",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.8px",
+      "color": "rgb(255, 107, 66)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "16px 40px",
+      "margin": "0px",
+      "border": "2px solid rgb(255, 107, 66)",
+      "display": "inline-block"
+    }
+  }
+]

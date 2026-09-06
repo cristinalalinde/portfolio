@@ -1,0 +1,19 @@
+{
+  "name": "cristina-lalinde-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A locally hosted reproduction of Cristina Lalinde's portfolio.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test server.test.js",
+    "test:browser": "node scripts/check-browser.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

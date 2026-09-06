@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://static1.squarespace.com/static/sitecss/5e72bc45fe70ba48a7aea67b/234/55dccafee4b04b8e0d7b6d4d/64531b56379b8a244dbf3fb7/979/site.css?nocustom=true",
+    "path": "/assets/reference-1.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/d2a3c8b8-5e0c-40ab-933b-02fc890a0d7e_1054/website.components.form.styles.css",
+    "path": "/assets/reference-2.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/179b8ac0-e8f3-474e-94b3-4865bebce923_1205/website.components.spacer.styles.css",
+    "path": "/assets/reference-3.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.scrolling/2139019b-092c-4bf6-a2c2-c86df313edb2_654/website.components.scrolling.styles.css",
+    "path": "/assets/reference-4.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/7a41372a-a2fc-478b-9e43-c34805b2e47e_249/website.components.horizontalrule.styles.css",
+    "path": "/assets/reference-5.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.es-419.css",
+    "path": "/assets/reference-6.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.es-419.css",
+    "path": "/assets/reference-7.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://use.typekit.net/af/cddf6d/00000000000000007735b7be/31/l?subset_id=2&fvd=n4&v=3",
+    "path": "/assets/reference-8.woff",
+    "type": "font"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/4a4a4df2f3fb3af3-min.es-419.css",
+    "path": "/assets/reference-9.css",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/d345ae17-066f-4122-9c3c-2628d0e854a1/latin.woff2",
+    "path": "/assets/reference-10.woff2",
+    "type": "font"
+  },
+  {
+    "url": "https://p.typekit.net/p.gif?s=2&k=646866_5e72bc45fe70ba48a7aea67b&ht=tk&h=www.cristinalalinde.com&f=41088&a=646866&js=1.21.0&app=typekit&e=js&_=1788705216336",
+    "path": "/assets/reference-11.gif",
+    "type": "image"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ef79db37-d37b-493f-be20-25bb0e50e3a9/latin.woff2",
+    "path": "/assets/reference-12.woff2",
+    "type": "font"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/98358d92-edd1-427d-8eb5-1a8b5875eb87/ezgif-1-35bfbe6440.gif?format=500w",
+    "path": "/assets/reference-13.gif",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/a5c3cbab-c1d1-4989-9800-a66e054408c0/Sales+flow+mk.jpg?format=500w",
+    "path": "/assets/reference-14.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/571d3f23-343c-4d2a-ba1a-ffc2df42fe1d/Mineral.io.jpg?format=500w",
+    "path": "/assets/reference-15.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/6785d183-3bff-4119-8c51-8160523e8cb8/Portfolio+2.jpg?format=750w",
+    "path": "/assets/reference-16.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/cd1ae74b-2b77-48d8-a46f-a8b27f7852c1/Portfolio+3.jpg?format=750w",
+    "path": "/assets/reference-17.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/63b1de5d-6c97-44b2-8ef4-15cfea89876e/Portfolio+1.jpg?format=750w",
+    "path": "/assets/reference-18.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/3b0190fa-fa05-4eff-b660-07e7911a2ce1/ezgif-2-a1a330231d.gif?format=500w",
+    "path": "/assets/reference-19.gif",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/8add1717-306a-4532-9d37-dd474cd5168c/Portfolio+4.jpg?format=750w",
+    "path": "/assets/reference-20.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/6170a918-f047-4886-9e48-f282bdd9fc78/Portfolio+8.jpg?format=750w",
+    "path": "/assets/reference-21.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/1556f8c7-41c0-4f9f-b861-8f0b89b2848d/Portfolio+6.jpg?format=750w",
+    "path": "/assets/reference-22.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/34a2dbfc-7dfe-48b0-a10a-db24afaf6947/Portfolio+7.jpg?format=750w",
+    "path": "/assets/reference-23.jpg",
+    "type": "image"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/5e72bc45fe70ba48a7aea67b/f4def3f0-665e-4d8c-a108-fe8a683d7b08/Portfolio+5.jpg?format=750w",
+    "path": "/assets/reference-24.jpg",
+    "type": "image"
+  }
+]
